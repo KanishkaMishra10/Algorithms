@@ -25,7 +25,3 @@ if(d==0):
     print("ERROR! First number should be greater.")
 else:
     print("\ngcd(",num1,",",num2,") =",d)
-
-
-
-
